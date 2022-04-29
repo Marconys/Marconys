@@ -29,8 +29,8 @@
   <img align="center" alt="Marconys-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> 
   <img align="center" alt="Marconys-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> 
   <img align="center" alt="Marconys-Cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"> 
-  
-  
+  <img align="right" alt="Marconys-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
+  </div>
   
   ![Snake animation](https://github.com/Marconys/Marconys/blob/output/github-contribution-grid-snake.svg)
   

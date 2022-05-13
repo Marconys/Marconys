@@ -15,9 +15,9 @@
   </div>
 
 <div align="center">
-  <a href="https://github.com/Marconys">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marconys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marconys&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/marconys">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marconys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marconys&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 
@@ -34,7 +34,7 @@
   
   ##  
   
-  ![Snake animation](https://github.com/Marconys/Marconys/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/marconys/Marconys/blob/output/github-contribution-grid-snake.svg)
    
   </div>
   
@@ -43,7 +43,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-      <a href="https://github.com/Marconys"><img src="https://activity-graph.herokuapp.com/graph?username=Marconys&custom_title=Marconys%20Pinheiro%20Contribution%20Graph&theme=react-dark" /></a>
+      <a href="https://github.com/marconys"><img src="https://activity-graph.herokuapp.com/graph?username=marconys&custom_title=Marconys%20Pinheiro%20Contribution%20Graph&theme=react-dark" /></a>
 	</p>
   <br/>	    
   <img align="left" alt="Marconys-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/daftpunktocat-guy.gif">  

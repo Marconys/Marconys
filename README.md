@@ -32,8 +32,7 @@
   <img align="center" alt="Marconys-Cplusplus" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg">
   <img align="center" alt="Marconys-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
   <img align="center" alt="Marconys-TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
-  <img align="center" alt="Marconys-Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg"> 
-  <img align="right" alt="Marconys-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">  
+  <img align="center" alt="Marconys-Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">  
   
   ##  
   
@@ -50,7 +49,7 @@
 	</p>
   <br/>	    
   <img align="left" alt="Marconys-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/daftpunktocat-guy.gif">  
-  
+  <img align="right" alt="Marconys-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"> 
   #
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Marconys+See+you+soon+my+friend!)]()

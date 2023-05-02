@@ -2,7 +2,7 @@
                               
 
 - 🔭 Hoje trabalho na Gol linhas aéreas
-- 🌱 Estudando tecnologia da informação no Senac SP
+- 🌱 Formado em Técnico em Informática Pelo Senac SP
 
 
 <div align="center"> 

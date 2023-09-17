@@ -33,29 +33,16 @@
   <img align="center" alt="Marconys-Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
   <img align="center" alt="Marconys-TypeScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"> 
   <img align="center" alt="Marconys-Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">  
-  
+  </div> 
   ##  
   
   <div align="center">
 
- ![df1wdk7-fa62d5b6-a1b2-4b2b-b407-02e737476148](https://github.com/marconys/Marconys/assets/90052315/e5b0af3d-0793-4ba6-a533-e86c62d355d7)
-
+ ![df1wdk7-fa62d5b6-a1b2-4b2b-b407-02e737476148](https://github.com/marconys/Marconys/assets/90052315/e5b0af3d-0793-4ba6-a533-e86c62d355d7)  
   
-</div>
-   
-  </div>
-  
-  ## 📊 Github Stats
-	
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-      <a href="https://github.com/marconys"><img src="https://activity-graph.herokuapp.com/graph?username=marconys&custom_title=Marconys%20Pinheiro%20Contribution%20Graph&theme=react-dark" /></a>
-	</p>
-  <br/>	    
+</div>	    
   <img align="left" alt="Marconys-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/daftpunktocat-guy.gif">  
-  <img align="right" alt="Marconys-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/daftpunktocat-thomas.gif"> 
-  #
+  <img align="right" alt="Marconys-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/daftpunktocat-thomas.gif">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&color=blue&vCenter=true&lines=Marconys+See+you+soon+my+friend!)]()
   

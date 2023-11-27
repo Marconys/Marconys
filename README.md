@@ -1,8 +1,9 @@
-### Olá! Eu sou o Marconys 💻
+### Olá! Eu sou o Marconys 👋
                               
 
-- 🔭 Hoje trabalho na Gol linhas aéreas
+- 💻 Desenvolvedor FullStack
 - 🌱 Formado em Técnico em Informática Pelo Senac SP
+- 🚀 Cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio
 
 
 <div align="center"> 
